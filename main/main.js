@@ -336,7 +336,7 @@ Would you like to reload Discord now?`,
             }
         })
     })
-}
+};
 const R = window.enmity.modules.common.Components.General.Animated,
     [k, he] = V($.byProps("transitionToGuild"), $.byProps("setString"));
 var ye = ({
